@@ -1,0 +1,14 @@
+2019-11-01T05:21:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\stpinext\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-11-01T08:37:58+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+
+2019-11-01T08:38:33+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+
+2019-11-01T08:39:05+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+
+2019-11-01T08:39:17+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+
+2019-11-01T08:39:24+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+
+2019-11-01T08:39:28+00:00 CRITICAL syntax error, unexpected '$_POST' (T_VARIABLE) in C:\xampp\htdocs\stpinext\wp-content\themes\constructo\multiform.php on line 70
+

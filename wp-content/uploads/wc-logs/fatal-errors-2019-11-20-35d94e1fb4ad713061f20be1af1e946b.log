@@ -1,0 +1,8 @@
+2019-11-20T12:13:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\stpinext\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-11-20T12:14:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\stpinext\wp-includes\wp-db.php on line 2007
+
+2019-11-20T12:15:39+00:00 CRITICAL Cannot redeclare job_bm_notice_message_permalink() (previously declared in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php:29) in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php on line 35
+
+2019-11-20T12:32:15+00:00 CRITICAL Cannot redeclare job_bm_notice_message_permalink() (previously declared in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php:29) in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php on line 35
+

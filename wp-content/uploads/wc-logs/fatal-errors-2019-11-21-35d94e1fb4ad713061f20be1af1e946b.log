@@ -1,0 +1,4 @@
+2019-11-21T07:12:02+00:00 CRITICAL Cannot redeclare job_bm_notice_message_permalink() (previously declared in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php:29) in C:\xampp\htdocs\stpinext\wp-content\plugins\job-board-manager\templates\job-dashboard\job-dashboard-hook.php on line 35
+
+2019-11-21T07:24:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\stpinext\wp-includes\wp-db.php on line 2007
+
