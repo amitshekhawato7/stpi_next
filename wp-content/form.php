@@ -1,8 +1,8 @@
 <?php
 $servername   = 'localhost';
 $database = 'stpinext';
-$username = 'stpinext';
-$password = "stpinext@123";
+$username = 'stpinextlocal';
+$password = "stpinextloc";
 
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $database);
