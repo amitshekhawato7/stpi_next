@@ -80,3 +80,9 @@
 [15-Jan-2020 05:16:47 UTC] PHP Notice:  Undefined index: _hide_featured in C:\xampp\htdocs\stpi_next\wp-content\plugins\hide-featured-image\index.php on line 84
 [15-Jan-2020 05:20:16 UTC] PHP Notice:  Undefined index: _hide_featured in C:\xampp\htdocs\stpi_next\wp-content\plugins\hide-featured-image\index.php on line 84
 [15-Jan-2020 05:20:17 UTC] PHP Notice:  Undefined index: _hide_featured in C:\xampp\htdocs\stpi_next\wp-content\plugins\hide-featured-image\index.php on line 84
+[15-Jan-2020 05:28:21 UTC] PHP Notice:  Undefined index: sidebar_generator in C:\xampp\htdocs\stpi_next\wp-content\themes\constructo\anps-framework\sidebar_generator.php on line 250
+[15-Jan-2020 05:28:21 UTC] PHP Notice:  Undefined index: sidebar_generator_replacement in C:\xampp\htdocs\stpi_next\wp-content\themes\constructo\anps-framework\sidebar_generator.php on line 251
+[15-Jan-2020 05:28:21 UTC] PHP Notice:  Undefined index: _hide_featured in C:\xampp\htdocs\stpi_next\wp-content\plugins\hide-featured-image\index.php on line 84
+[15-Jan-2020 05:28:21 UTC] PHP Notice:  Undefined index: sidebar_generator in C:\xampp\htdocs\stpi_next\wp-content\themes\constructo\anps-framework\sidebar_generator.php on line 250
+[15-Jan-2020 05:28:21 UTC] PHP Notice:  Undefined index: sidebar_generator_replacement in C:\xampp\htdocs\stpi_next\wp-content\themes\constructo\anps-framework\sidebar_generator.php on line 251
+[15-Jan-2020 05:28:51 UTC] PHP Notice:  Undefined index: _hide_featured in C:\xampp\htdocs\stpi_next\wp-content\plugins\hide-featured-image\index.php on line 84
